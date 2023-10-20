@@ -3,10 +3,11 @@
   "language": "en",
   // words - list of words to be always considered correct
   "words": [
-      "collabathon"
+    "Westside",
+    "collabathon"
   ],
   "ignorePaths": [
-      "node_modules",
-      ".github"
+    "node_modules",
+    ".github"
   ]
 }
