@@ -3,8 +3,13 @@
   "language": "en",
   // words - list of words to be always considered correct
   "words": [
+<<<<<<< HEAD
     "Westside",
     "collabathon"
+=======
+      "Cleantech",
+      "collabathon"
+>>>>>>> a48667b52f64460319008118cc10983e64212252
   ],
   "ignorePaths": [
     "node_modules",
